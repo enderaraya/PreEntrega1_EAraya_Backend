@@ -1,112 +1,122 @@
 [
-    {
-        "id": "a123b456-7c89-012d-345e-6789f012g345",
-        "status": true,
-        "title": "Figura de Goku Super Saiyan",
-        "description": "Figura de acción de Goku en su forma Super Saiyan de Dragon Ball Z.",
-        "code": "gokusaiyan",
-        "price": 150000,
-        "stock": 30,
-        "category": "Figuras de Anime",
-        "Thumbnails": "['https://example.com/goku1.jpg', 'https://example.com/goku2.jpg']"
-    },
-    {
-        "id": "b234c567-8d90-123e-456f-7890g123h456",
-        "status": true,
-        "title": "Figura de Naruto Uzumaki",
-        "description": "Figura de acción de Naruto Uzumaki en su forma Sage Mode de Naruto Shippuden.",
-        "code": "narutosage",
-        "price": 130000,
-        "stock": 25,
-        "category": "Figuras de Anime",
-        "Thumbnails": "['https://example.com/naruto1.jpg', 'https://example.com/naruto2.jpg']"
-    },
-    {
-        "id": "c345d678-9e01-234f-567g-8901h234i567",
-        "status": true,
-        "title": "Figura de Luffy Gear Fourth",
-        "description": "Figura de acción de Monkey D. Luffy en su forma Gear Fourth de One Piece.",
-        "code": "luffygear4",
-        "price": 180000,
-        "stock": 20,
-        "category": "Figuras de Anime",
-        "Thumbnails": "['https://example.com/luffy1.jpg', 'https://example.com/luffy2.jpg']"
-    },
-    {
-        "id": "d456e789-0f12-345g-678h-9012i345j678",
-        "status": true,
-        "title": "Figura de Mikasa Ackerman",
-        "description": "Figura de acción de Mikasa Ackerman de Attack on Titan.",
-        "code": "mikasatk",
-        "price": 140000,
-        "stock": 22,
-        "category": "Figuras de Anime",
-        "Thumbnails": "['https://example.com/mikasa1.jpg', 'https://example.com/mikasa2.jpg']"
-    },
-    {
-        "id": "e567f890-1g23-456h-789i-0123j456k789",
-        "status": true,
-        "title": "Figura de Sailor Moon",
-        "description": "Figura de acción de Sailor Moon con su traje icónico.",
-        "code": "sailormoon",
-        "price": 160000,
-        "stock": 18,
-        "category": "Figuras de Anime",
-        "Thumbnails": "['https://example.com/sailormoon1.jpg', 'https://example.com/sailormoon2.jpg']"
-    },
-    {
-        "id": "f678g901-2h34-567i-890j-1234k567l890",
-        "status": true,
-        "title": "Figura de Levi Ackerman",
-        "description": "Figura de acción de Levi Ackerman de Attack on Titan.",
-        "code": "leviatk",
-        "price": 150000,
-        "stock": 20,
-        "category": "Figuras de Anime",
-        "Thumbnails": "['https://example.com/levi1.jpg', 'https://example.com/levi2.jpg']"
-    },
-    {
-        "id": "g789h012-3i45-678j-901k-2345l678m901",
-        "status": true,
-        "title": "Figura de Asuka Langley",
-        "description": "Figura de acción de Asuka Langley de Neon Genesis Evangelion.",
-        "code": "asukaeva",
-        "price": 170000,
-        "stock": 15,
-        "category": "Figuras de Anime",
-        "Thumbnails": "['https://example.com/asuka1.jpg', 'https://example.com/asuka2.jpg']"
-    },
-    {
-        "id": "h890i123-4j56-789k-012l-3456m789n012",
-        "status": true,
-        "title": "Figura de Vegeta Super Saiyan",
-        "description": "Figura de acción de Vegeta en su forma Super Saiyan de Dragon Ball Z.",
-        "code": "vegetassj",
-        "price": 150000,
-        "stock": 25,
-        "category": "Figuras de Anime",
-        "Thumbnails": "['https://example.com/vegeta1.jpg', 'https://example.com/vegeta2.jpg']"
-    },
-    {
-        "id": "i901j234-5k67-890l-123m-4567n890o123",
-        "status": true,
-        "title": "Figura de Todoroki Shoto",
-        "description": "Figura de acción de Todoroki Shoto de My Hero Academia.",
-        "code": "todorokimh",
-        "price": 140000,
-        "stock": 30,
-        "category": "Figuras de Anime",
-        "Thumbnails": "['https://example.com/todoroki1.jpg', 'https://example.com/todoroki2.jpg']"
-    },
-    {
-        "id": "j012k345-6l78-901m-234n-5678o901p234",
-        "status": true,
-        "title": "Figura de Rem",
-        "description": "Figura de acción de Rem de Re:Zero.",
-        "code": "remrezero",
-        "price": 130000,
-        "stock": 28,
-        "category": "Figuras de Anime",
-        "Thumbnails": "['https://example.com/rem1.jpg', 'https://example.com/rem2.jpg']"
-    }
+  {
+    "id": "a123b456-7c89-012d-345e-6789f012g345",
+    "status": true,
+    "title": "Figura de Goku Super Saiyan",
+    "description": "Figura de acción de Goku en su forma Super Saiyan de Dragon Ball Z.",
+    "code": "gokusaiyan",
+    "price": 150000,
+    "stock": 30,
+    "category": "Figuras de Anime",
+    "Thumbnails": "['https://example.com/goku1.jpg', 'https://example.com/goku2.jpg']"
+  },
+  {
+    "id": "b234c567-8d90-123e-456f-7890g123h456",
+    "status": true,
+    "title": "Figura de Naruto Uzumaki",
+    "description": "Figura de acción de Naruto Uzumaki en su forma Sage Mode de Naruto Shippuden.",
+    "code": "narutosage",
+    "price": 130000,
+    "stock": 25,
+    "category": "Figuras de Anime",
+    "Thumbnails": "['https://example.com/naruto1.jpg', 'https://example.com/naruto2.jpg']"
+  },
+  {
+    "id": "c345d678-9e01-234f-567g-8901h234i567",
+    "status": true,
+    "title": "Figura de Luffy Gear Fourth",
+    "description": "Figura de acción de Monkey D. Luffy en su forma Gear Fourth de One Piece.",
+    "code": "luffygear4",
+    "price": 180000,
+    "stock": 20,
+    "category": "Figuras de Anime",
+    "Thumbnails": "['https://example.com/luffy1.jpg', 'https://example.com/luffy2.jpg']"
+  },
+  {
+    "id": "d456e789-0f12-345g-678h-9012i345j678",
+    "status": true,
+    "title": "Figura de Mikasa Ackerman",
+    "description": "Figura de acción de Mikasa Ackerman de Attack on Titan.",
+    "code": "mikasatk",
+    "price": 140000,
+    "stock": 22,
+    "category": "Figuras de Anime",
+    "Thumbnails": "['https://example.com/mikasa1.jpg', 'https://example.com/mikasa2.jpg']"
+  },
+  {
+    "id": "e567f890-1g23-456h-789i-0123j456k789",
+    "status": true,
+    "title": "Figura de Sailor Moon",
+    "description": "Figura de acción de Sailor Moon con su traje icónico.",
+    "code": "sailormoon",
+    "price": 160000,
+    "stock": 18,
+    "category": "Figuras de Anime",
+    "Thumbnails": "['https://example.com/sailormoon1.jpg', 'https://example.com/sailormoon2.jpg']"
+  },
+  {
+    "id": "f678g901-2h34-567i-890j-1234k567l890",
+    "status": true,
+    "title": "Figura de Levi Ackerman",
+    "description": "Figura de acción de Levi Ackerman de Attack on Titan.",
+    "code": "leviatk",
+    "price": 150000,
+    "stock": 20,
+    "category": "Figuras de Anime",
+    "Thumbnails": "['https://example.com/levi1.jpg', 'https://example.com/levi2.jpg']"
+  },
+  {
+    "id": "g789h012-3i45-678j-901k-2345l678m901",
+    "status": true,
+    "title": "Figura de Asuka Langley",
+    "description": "Figura de acción de Asuka Langley de Neon Genesis Evangelion.",
+    "code": "asukaeva",
+    "price": 170000,
+    "stock": 15,
+    "category": "Figuras de Anime",
+    "Thumbnails": "['https://example.com/asuka1.jpg', 'https://example.com/asuka2.jpg']"
+  },
+  {
+    "id": "h890i123-4j56-789k-012l-3456m789n012",
+    "status": true,
+    "title": "Figura de Vegeta Super Saiyan",
+    "description": "Figura de acción de Vegeta en su forma Super Saiyan de Dragon Ball Z.",
+    "code": "vegetassj",
+    "price": 150000,
+    "stock": 25,
+    "category": "Figuras de Anime",
+    "Thumbnails": "['https://example.com/vegeta1.jpg', 'https://example.com/vegeta2.jpg']"
+  },
+  {
+    "id": "i901j234-5k67-890l-123m-4567n890o123",
+    "status": true,
+    "title": "Figura de Todoroki Shoto",
+    "description": "Figura de acción de Todoroki Shoto de My Hero Academia.",
+    "code": "todorokimh",
+    "price": 140000,
+    "stock": 30,
+    "category": "Figuras de Anime",
+    "Thumbnails": "['https://example.com/todoroki1.jpg', 'https://example.com/todoroki2.jpg']"
+  },
+  {
+    "id": "j012k345-6l78-901m-234n-5678o901p234",
+    "status": true,
+    "title": "Figura de Rem",
+    "description": "Figura de acción de Rem de Re:Zero.",
+    "code": "remrezero",
+    "price": 130000,
+    "stock": 28,
+    "category": "Figuras de Anime",
+    "Thumbnails": "['https://example.com/rem1.jpg', 'https://example.com/rem2.jpg']"
+  },
+  {
+    "id": "abf0c012-f046-4b0d-b249-a5eb90d04b4a",
+    "status": true,
+    "title": "Producto de ejemplo",
+    "description": "Descripción del producto",
+    "code": "ABC123",
+    "price": 19.99,
+    "stock": 100,
+    "category": "Electrónica"
+  }
 ]

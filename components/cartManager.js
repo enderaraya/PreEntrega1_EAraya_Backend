@@ -25,7 +25,7 @@ class CartManager {
         }
     }
 
-    async createCart() {
+    async addNewCart() {
         try {
             const cart = {
                 id: generateUUID(),

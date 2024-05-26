@@ -20,7 +20,7 @@ class ProductManager {
         }
     }
 
-    async createProduct(productData) {
+    async addNewProduct(productData) {
         try {
             const product = {
                 id: generateUUID(),
