@@ -118,5 +118,15 @@
     "price": 19.99,
     "stock": 100,
     "category": "Electrónica"
+  },
+  {
+    "id": "b1575d5d-ae2c-4dcf-8654-d5b111b6d8fc",
+    "status": true,
+    "title": "testes",
+    "description": "test1",
+    "category": "testing",
+    "code": "13s456fv",
+    "price": "69420",
+    "stock": "4"
   }
 ]
