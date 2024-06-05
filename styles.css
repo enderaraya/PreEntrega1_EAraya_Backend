@@ -1,0 +1,11 @@
+body {
+    background-color: #e6e9f1;
+}
+
+.rtproducts {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+

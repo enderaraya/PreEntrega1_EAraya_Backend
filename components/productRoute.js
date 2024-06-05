@@ -3,7 +3,7 @@ import { getCurrentDirname } from "./path.js";
 import { validateProduct } from "./middlewares/productValidate.js";
 import { idValidation } from "./middlewares/validateId.js";
 import ProductManager from "./productManager.js";
-import { io } from "../server.js"; // Importa la instancia de io desde el servidor
+import { io } from "../server.js"; 
 
 const productRouter = Router();
 const __dirname = getCurrentDirname();
@@ -35,7 +35,6 @@ productRouter.post("/", validateProduct, async (req, res) => {
         const newProduct = await productManager.addNewProduct(productObj);
         res.status(201).json(newProduct);
 
-        // Emitir evento a través de WebSocket cuando se agrega un nuevo producto
         io.emit('newProduct', newProduct);
     } catch (error) {
         res.status(500).json({ error: error.message });
